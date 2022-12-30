@@ -1,6 +1,6 @@
 # 📊 발표주제 및 자료
 ### 유방암 임파선 전이 예측 모델 구현
-https://github.com/leejunghyunA/third_project/blob/main/2.%20결과%20PPT/유방암%20임파선%20전이%20예측%20모델%20구현.pdf
+[![발표자료 보러가기]( "발표자료 보러가기")](https://github.com/leejunghyunA/third_project/blob/6e2aae8208cc583d44d7d4241a169aaa7b5c44a3/2.%20%EA%B2%B0%EA%B3%BC%20PPT/%EC%9C%A0%EB%B0%A9%EC%95%94%20%EC%9E%84%ED%8C%8C%EC%84%A0%20%EC%A0%84%EC%9D%B4%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%ED%98%84.pdf)<br/>
 
 <br/>
 
@@ -32,7 +32,7 @@ https://github.com/leejunghyunA/third_project/blob/main/2.%20결과%20PPT/유방
 
 | Week | 코드 | 내용|
 | ------ | -- | ----------- |
-| 1주차 | ☑️ | 리서치 및 비정형 데이 탐색적 분석 |
+| 1주차 | ☑️ | 리서치 및 비정형 데이터 탐색적 분석 |
 | 2주차 | ☑️ | 전체 모델링 및 사전 학습 모델간 결과 비교 |
 | 3주차 | ☑️ | 이미지 패치화  |
 | 4주차 | ☑️ | FPN 모델 |
