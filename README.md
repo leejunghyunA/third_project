@@ -24,6 +24,8 @@
 - 활용 기술  <img src="https://img.shields.io/badge/Pycaret-3776AB?"/>
 - 통합 개발 환경 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=black"/>
 
+아지 미완성!! 
+
 <br/>
 
 # 📣 과정
