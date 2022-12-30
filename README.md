@@ -32,12 +32,12 @@ https://github.com/leejunghyunA/third_project/blob/main/2.%20결과%20PPT/유방
 
 | Week | 코드 | 내용|
 | ------ | -- | ----------- |
-| 1주차 | ☑️ | 탐색적 분석 |
-| 2주차 | ☑️ | 카테고리 데이터 전처리 |
-| 3주차 | ☑️ | 유지고객 및 감소고객 정의 |
-| 4주차 | ☑️ | 감소고객 분류 모델 개발|
-| 5주차 | ☑️ | 감소고객 유형별 군집화 |
-| 6주차 | ☑️ | 군집별 맞춤 추천 시스템 개발 |
+| 1주차 | ☑️ |  |
+| 2주차 | ☑️ |  |
+| 3주차 | ☑️ |  |
+| 4주차 | ☑️ | |
+| 5주차 | ☑️ | |
+| 6주차 | ☑️ |  |
 
 <br/>
 
@@ -50,4 +50,4 @@ https://github.com/leejunghyunA/third_project/blob/main/2.%20결과%20PPT/유방
 | 윤정준 | ... | 
 | 진청아 |     | 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoi-aerim%2F220924_1027-ML-project&count_bg=%23D54A1C&title_bg=%23555555&icon=myspace.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FleejunghyunA%2Fthird_project&count_bg=%23D54A1C&title_bg=%23555555&icon=myspace.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
