@@ -16,7 +16,7 @@
 
 # 🌱 요약
 
-림프절(임파선)은 암의 전이, 암이 퍼지는 데 매우 치명적인 역할을 하기 때문에 림프절 전이 여부와 전이 단계를 빠르고 정확하게 파악하는게 매우 중요합니다. 병리 슬라이드 이미지내의 조직을 분석하여 전이 여부를 판단하는 방법으로 병리학자가 얼마나 정확하고 빨리 진단을 내리는지가 핵심입니다. 그러나 기존에 병리 학자가 직접 확인하여 진행하던 방식은 사람이 하는 한계로 진단하기까지 시간이 소요되고 사람마다 다른 결과로 예측할 수 있습니다. 공모전에서 제공한 병리 슬라이드 이미지와 정형데이터를 사용하여 유방암 임파선 전이 예측 모델을 개발을 목표로 하여, 정확한 예측이 가능하다면 짧은 시간에 보다 적은 비용으로 객관적인 판단을 내릴 수 있습니다. 이를 통해 환자에게 보다 빠르고 정확한 진단 및 맞춤 치료 방향 수립할 수 있게 됩니다. 
+림프절(임파선)은 암의 전이, 암이 퍼지는 데 매우 치명적인 역할을 하기 때문에 림프절 전이 여부와 전이 단계를 빠르고 정확하게 파악하는게 매우 중요합니다. 병리 슬라이드 이미지내의 조직을 분석하여 전이 여부를 판단하는 방법으로 병리학자가 얼마나 정확하고 빨리 진단을 내리는지가 핵심입니다. 그러나 기존에 병리 학자가 직접 확인하여 진행하던 방식은 사람이 하는 한계로 진단하기까지 시간이 소요되고 사람마다 다른 결과로 예측할 수 있습니다. 공모전에서 제공한 병리 슬라이드 이미지와 정형데이터를 활용하여 유방암 임파선 전이 예측 모델을 개발 및 정확한 예측이 가능하다면 짧은 시간에 보다 적은 비용으로 객관적인 판단을 내릴 수 있습니다. 이를 통해 환자에게 보다 빠르고 정확한 진단 및 맞춤 치료 방향 수립할 수 있게 됩니다. 
 
 공모전 링크 : https://dacon.io/competitions/official/236011/overview/description
 
@@ -24,7 +24,7 @@
 - 언어 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 - 구축환경 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
 - 활용 기술  <img src="https://img.shields.io/badge/Pycaret-3776AB?"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=black"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/OpenSlides-3776AB?"/>
-- 통합 개발 환경 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=black"/> 
+- 통합 개발 환경 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=black"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 
 
 
@@ -36,11 +36,11 @@
 | Week | 코드 | 내용|
 | ------ | -- | ----------- |
 | 1주차 | ☑️ | 리서치 및 비정형 데이터 탐색적 분석 |
-| 2주차 | ☑️ | 전체 모델링 및 사전 학습 모델간 결과 비교 |
+| 2주차 | ☑️ | 전체 모델링 및 사전 학습 모델간 결과 비교 분석 |
 | 3주차 | ☑️ | 이미지 패치화  |
 | 4주차 | ☑️ | FPN 모델 |
-| 5주차 | ☑️ | 이미지 모델간 결과 비교 및 시각화 |
-| 6주차 | ☑️ | 결과 시각화 및 발표 준비  |
+| 5주차 | ☑️ | 다양한 이미지 모델 실험 및 결과 비교 분석 |
+| 6주차 | ☑️ | 최종 결과 시각화 및 발표 준비  |
 
 <br/>
 
