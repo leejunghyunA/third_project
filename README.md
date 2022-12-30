@@ -3,7 +3,7 @@
 [![발표자료 보러가기](https://user-images.githubusercontent.com/70292353/210043845-cd3d2fed-fec1-4d35-9be6-38a0a7f6f48f.png "발표자료 보러가기")](https://github.com/leejunghyunA/third_project/blob/6e2aae8208cc583d44d7d4241a169aaa7b5c44a3/2.%20%EA%B2%B0%EA%B3%BC%20PPT/%EC%9C%A0%EB%B0%A9%EC%95%94%20%EC%9E%84%ED%8C%8C%EC%84%A0%20%EC%A0%84%EC%9D%B4%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%ED%98%84.pdf)<br/>
 
 
-# 👩‍👩‍👧‍👧 팀원 소개
+# 👩‍👩‍👧‍👦 팀원 소개
 
 | 팀원 | 업무 | 깃허브 주소 |
 | ------ | -- | ----------- |
@@ -22,7 +22,7 @@
 - 언어 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 - DB <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> 
 - 구축환경 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
-- 활용 기술 <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black"/> <img src="https://img.shields.io/badge/Surprise-3776AB?"/> <img src="https://img.shields.io/badge/Pycaret-3776AB?"/>
+- 활용 기술  <img src="https://img.shields.io/badge/Surprise-3776AB?"/> <img src="https://img.shields.io/badge/Pycaret-3776AB?"/>
 - 통합 개발 환경 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=black"/>
 
 <br/>
