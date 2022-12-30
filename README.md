@@ -10,7 +10,7 @@ https://github.com/leejunghyunA/third_project/blob/main/2.%20결과%20PPT/유방
 | ------ | -- | ----------- |
 | 최애림 | 탐색적 분석, 데이터 전처리, 군집화 | https://github.com/choi-aerim |
 | 이정현 | 탐색적 분석, 데이터 전처리, 모델링 | https://github.com/leejunghyunA |
-| 윤정준 | 탐색적 분석, 데이터 전처리, 추천 시스템 | https://github.com/YANGJUHEE521 |
+| 윤정준 | 탐색적 분석, 데이터 전처리, 추천 시스템 | |
 | 진청아 | 탐색적 분석, 데이터 전처리, 추천 시스템 | https://github.com/risa1796 |
 
 <br/>
@@ -45,9 +45,9 @@ https://github.com/leejunghyunA/third_project/blob/main/2.%20결과%20PPT/유방
 
 | 팀원 | 어려웠던 점과 배운 점 | 
 | ------ | -- | 
-| 최애림 | | 
-| 이정현 | |
-| 윤정준 | ... | 
-| 진청아 |     | 
+| 최애림 | 이미지 마스킹 처리를 시도한 부분에서 불균형 패치 수 조절, 다양한 크기의 이미지를 패치화해서 시도하지 못했던 점, 컴퓨터 성능 문제로  비용이 큰 pretrain된 모델 및 하이퍼파라미터 적용하지 못한 점이 아쉽다. | 
+| 이정현 | 병리슬라이드가 큰 사이즈로 구성되어있어 이를 input사이즈에 맞게 축소시켰을 때, 정확한 특징을 찾아내지 못한 부분과 제공된 마스킹데이터를 활용해 다양한 방법으로 이미지 데이터를 처리하고 싶었으나, 컴퓨터의 성능 문제로 시도도하지 못한 부분이 많아 아쉬웠다. 그렇지만 이미지 처리 과정에서 실제 데이터를 적용시키고 그 결과를 확인하면서 모델을 이해하는데 많은 도움이 되었다. |
+| 윤정준 | 컴퓨터의 성능이 부족하여 좀 더 많은 비용이 소모되는 모델 및 더 많은 하이퍼 파라미터의 시행을 못해 보았으며 단순히 비용이 큰 모델뿐만 아니라 큰 이미지로 인한 메모리 부족으로 시행 조차 하지 못한 부분들이 아쉬웠다. Dacon에서 제공한 마스킹 데이터를 보고 딥러닝을 사용하여 마스킹 데이터를 생성하려고 하였으나 원하는 정도의 성과가 나오지 않아 이미지 전처리로 전이를 예측한 부분이 아쉬웠다.| 
+| 진청아 | 다양한 접근 방식으로 높은 해상도의 병리 조직 슬라이드 이미지를 분석하고자 했으나, 적은 병리 슬라이드 이미지 개수와 annotation(주석) 데이터 부족으로 발생한 과적합을 해결하는데 상당한 어려움이 있었다. | 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FleejunghyunA%2Fthird_project&count_bg=%23D54A1C&title_bg=%23555555&icon=myspace.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
