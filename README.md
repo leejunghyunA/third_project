@@ -18,6 +18,8 @@
 
 암은 정확히 진단하고 초기에 발견하는게 중요하기 때문에, 병리학자가 얼마나 정확하고 빨리 진단을 내리는지가 가장 중요한 부분입니다. 기존에 병리 학자가 직접 확인하여 진행하던 방식은 사람이 하는 한계로 진단하기까지 시간이 소요되고 사람마다 다른 결과로 예측할 수 있습니다. 공모전에서 제공하 병리 슬라이드 이미지와 정형데이터를 사용하여 유방암 임파선 전이 예측 모델을 개발 및 정확한 예측이 가능하다면 짧은 시간에 보다 적은 비용으로 객관적인 판단을 내릴 수 있습니다. 이를 통해, 환자에게 보다 빠르고 정확한 진단 및 맞춤 치료 방향 수립할 수 있게 됩니다. 
 
+공모전 링크 : https://dacon.io/competitions/official/236011/overview/description
+
 ## 사용한 모듈
 - 언어 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 - 구축환경 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
