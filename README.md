@@ -1,6 +1,6 @@
 # 📊 발표주제 및 자료
 ### 유방암 임파선 전이 예측 모델 구현
-[![발표자료 보러가기](<https://user-images.githubusercontent.com/70292353/210043845-cd3d2fed-fec1-4d35-9be6-38a0a7f6f48f.png "발표자료 보러가기")](https://github.com/leejunghyunA/third_project/blob/6e2aae8208cc583d44d7d4241a169aaa7b5c44a3/2.%20%EA%B2%B0%EA%B3%BC%20PPT/%EC%9C%A0%EB%B0%A9%EC%95%94%20%EC%9E%84%ED%8C%8C%EC%84%A0%20%EC%A0%84%EC%9D%B4%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%ED%98%84.pdf)<br/>
+[![발표자료 보러가기](https://user-images.githubusercontent.com/70292353/210043845-cd3d2fed-fec1-4d35-9be6-38a0a7f6f48f.png "발표자료 보러가기")](https://github.com/leejunghyunA/third_project/blob/6e2aae8208cc583d44d7d4241a169aaa7b5c44a3/2.%20%EA%B2%B0%EA%B3%BC%20PPT/%EC%9C%A0%EB%B0%A9%EC%95%94%20%EC%9E%84%ED%8C%8C%EC%84%A0%20%EC%A0%84%EC%9D%B4%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%ED%98%84.pdf)<br/>
 
 <br/>
 
