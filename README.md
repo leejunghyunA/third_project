@@ -24,10 +24,9 @@
 - 언어 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 - 구축환경 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
 - 활용 기술  <img src="https://img.shields.io/badge/Pycaret-3776AB?"/>
-- 통합 개발 환경 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=black"/>
+- 통합 개발 환경 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=black"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=black"/>
 
-아지 미완성!! 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=orange"/>
+
 
 <br/>
 
